@@ -6,3 +6,6 @@ git remote add origin https://github.com/mohit702/FirstJavaExample.git
 git push -u origin master
 
 git clone https://github.com/mohit702/FirstJavaExample.git
+
+git config --local user.email "mohit_702@yahoo.co.in"
+git config -local user.name "mohit702"
